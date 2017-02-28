@@ -25,6 +25,7 @@ An awesome list [Nerves](http://nerves-project.org/) libraries and resources
 ## Books
 
 ## Tutorials
+- [BLinky walkthrough](https://cafecode.co/posts/getting-started-with-nerves-embedded-elixir-on-raspberry-pi-3/) - Thorough getting started blogpost
 
 ## Companion Libraries
 
