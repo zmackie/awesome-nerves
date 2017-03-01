@@ -19,8 +19,8 @@ An awesome list of [Nerves](http://nerves-project.org/) libraries and resources
 ## Videos
 - [Slack Playing Robot](https://www.youtube.com/watch?v=-MzJ-HxRcVI) - Nerves plays the hits!
 - [Control the Internet](https://www.youtube.com/watch?v=cznxe3TCevk) - Nerves rewards your kids for scrubbing floors!
-- [Justin Schneck, ElixirConfEU 2016](https://www.youtube.com/watch?v=18-g0ODfgg) - Great intro to nerves
-- [Garth Hitchens](https://www.youtube.com/watch?v=pzQrFC55q4) - Another great intro to the project
+- [Justin Schneck, ElixirConfEU 2016](https://www.youtube.com/watch?v=pVHhmqYozOM) - Great intro to nerves
+- [Garth Hitchens](https://youtu.be/kpzQrFC55q4) - Another great intro to the project
 - [Greg Mefford](https://www.youtube.com/watch?v=YMVL4275Zog) - Nice overview of nerves and community work in the project
 - [Christopher Cote](https://www.youtube.com/watch?v=aQ_P9m4JzlQ) - Nerves intro in Chicago
 - [Nerves Status Monitor](https://www.youtube.com/watch?v=vbPbulimWLk) - Sneak Nerves into your company!
