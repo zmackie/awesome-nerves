@@ -2,7 +2,7 @@
 ---
 # awesome-nerves
 
-An awesome list [Nerves](http://nerves-project.org/) libraries and resources
+An awesome list of [Nerves](http://nerves-project.org/) libraries and resources
 
 ## Start Here
  - [Nerves Github](https://github.com/nerves-project)
