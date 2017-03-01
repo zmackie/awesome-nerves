@@ -4,6 +4,15 @@
 
 An awesome list of [Nerves](http://nerves-project.org/) libraries and resources
 
+## Contents
+ - [Start Here](#start-here)
+ - [Videos](#videos)
+ - [Books](#books)
+ - [Tutorials](#tutorials)
+ - [Companion Libraries](#companion-libraries)
+ 
+ ---
+
 ## Start Here
  - [Nerves Github](https://github.com/nerves-project)
  - [Current State of the Project](https://youtu.be/pVHhmqYozOM?list=PLzBBtNlH89Z4FkEqp3vFMfne1dUreF7Gp) - Justin Schneck's Lonestar ElixirConf Keynote
