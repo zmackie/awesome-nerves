@@ -33,6 +33,7 @@ An awesome list of [Nerves](http://nerves-project.org/) libraries and resources
 ## Tutorials
 - [Blinky walkthrough](https://cafecode.co/posts/getting-started-with-nerves-embedded-elixir-on-raspberry-pi-3/) - Thorough getting started blogpost
 - [Hook up a Sensor](http://www.carstenblock.org/post/project-excelsius/) - Get information about the world
+- [Wake UP!](http://www.grappendorf.net/projects/sunrise-alarm-clock/hardware.html) - Build a sunrise alarm clock
 
 ## Companion Libraries
 
