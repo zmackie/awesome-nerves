@@ -6,15 +6,32 @@ An awesome list of [Nerves](http://nerves-project.org/) libraries and resources
 
 ## Contents
  - [Start Here](#start-here)
- - [Videos](#videos)
  - [Books](#books)
- - [Tutorials](#tutorials)
  - [Companion Libraries](#companion-libraries)
+ - [Products Built with Nerves](#Products-built-with-Nerves)
+ - [Tutorials](#tutorials)
+ - [Videos](#videos)
  
 ## Start Here
  - [Nerves Github](https://github.com/nerves-project)
  - [Current State of the Project](https://youtu.be/pVHhmqYozOM?list=PLzBBtNlH89Z4FkEqp3vFMfne1dUreF7Gp) - Justin Schneck's Lonestar ElixirConf Keynote
  - [Examples](https://github.com/nerves-project/nerves-examples) - Blinky & Co; hello world for embedded elixir
+ 
+---
+ 
+ 
+## Books
+- None yet!
+
+## Companion Libraries
+
+## Products built with Nerves
+  - [Farmbot](https://github.com/farmbot) - Amazing home farming with robots!
+
+## Tutorials
+- [Blinky walkthrough](https://cafecode.co/posts/getting-started-with-nerves-embedded-elixir-on-raspberry-pi-3/) - Thorough getting started blogpost
+- [Hook up a Sensor](http://www.carstenblock.org/post/project-excelsius/) - Get information about the world
+- [Wake UP!](http://www.grappendorf.net/projects/sunrise-alarm-clock/hardware.html) - Build a sunrise alarm clock
 
 ## Videos
 - [Slack Playing Robot](https://www.youtube.com/watch?v=-MzJ-HxRcVI) - Nerves plays the hits!
@@ -26,17 +43,6 @@ An awesome list of [Nerves](http://nerves-project.org/) libraries and resources
 - [Nerves Status Monitor](https://www.youtube.com/watch?v=vbPbulimWLk) - Sneak Nerves into your company!
 - [The WORLD!](https://www.youtube.com/watch?v=SVy7gRU_-P8) - Frank Hunleth tells us all about nerves and other hardware
 - [Nerves AI](https://www.youtube.com/watch?v=N_PXas9LtzU) - Marvin Minsky's 'Society of Agents' applied to Nerves robots
-
-## Books
-- None yet!
-
-## Tutorials
-- [Blinky walkthrough](https://cafecode.co/posts/getting-started-with-nerves-embedded-elixir-on-raspberry-pi-3/) - Thorough getting started blogpost
-- [Hook up a Sensor](http://www.carstenblock.org/post/project-excelsius/) - Get information about the world
-- [Wake UP!](http://www.grappendorf.net/projects/sunrise-alarm-clock/hardware.html) - Build a sunrise alarm clock
-
-## Companion Libraries
-
 
 
 ## License
