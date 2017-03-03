@@ -16,14 +16,13 @@ An awesome list of [Nerves](http://nerves-project.org/) libraries and resources
  - [Nerves Github](https://github.com/nerves-project)
  - [Current State of the Project](https://youtu.be/pVHhmqYozOM?list=PLzBBtNlH89Z4FkEqp3vFMfne1dUreF7Gp) - Justin Schneck's Lonestar ElixirConf Keynote
  - [Examples](https://github.com/nerves-project/nerves-examples) - Blinky & Co; hello world for embedded elixir
- 
----
- 
+ - [Getting Started](https://hexdocs.pm/nerves/getting-started.html) - Project walkthrough on Hex
  
 ## Books
 - None yet!
 
 ## Companion Libraries
+- Yours!
 
 ## Products built with Nerves
   - [Farmbot](https://github.com/farmbot) - Amazing home farming with robots!
