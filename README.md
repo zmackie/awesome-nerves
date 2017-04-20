@@ -26,7 +26,7 @@ An awesome list of [Nerves](http://nerves-project.org/) libraries and resources
 
 ## Products and Projects built with Nerves
   - [Farmbot](https://github.com/farmbot) - Amazing home farming with robots!
-  - [Elicopter] (https://github.com/elicopter) - Holy crap its a quadcopter!
+  - [Elicopter](https://github.com/elicopter) - Holy crap its a quadcopter!
 
 ## Tutorials
 - [Blinky walkthrough](https://cafecode.co/posts/getting-started-with-nerves-embedded-elixir-on-raspberry-pi-3/) - Thorough getting started blogpost
