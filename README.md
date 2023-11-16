@@ -17,12 +17,26 @@ An awesome list of [Nerves](http://nerves-project.org/) libraries and resources
  - [Current State of the Project](https://youtu.be/pVHhmqYozOM?list=PLzBBtNlH89Z4FkEqp3vFMfne1dUreF7Gp) - Justin Schneck's Lonestar ElixirConf Keynote
  - [Examples](https://github.com/nerves-project/nerves-examples) - Blinky & Co; hello world for embedded elixir
  - [Getting Started](https://hexdocs.pm/nerves/getting-started.html) - Project walkthrough on Hex
- 
+ - [Embedded Elixir](https://embedded-elixir.com/) - Blog for Nerves and other Embedded Linux things
+
 ## Books
 - None yet!
 
 ## Companion Libraries
-- Yours!
+
+  - [Nerves Pack](https://github.com/nerves-project/nerves_pack) - compilation of dependencies and default configuration for getting a Nerves project up and running with minimal work.
+  - [VintageNet](https://github.com/nerves-networking/vintage_net) - Networking Library
+  - [Circuits UART](https://github.com/elixir-circuits/circuits_uart) - Control or read from UART devices
+  - [Circuits SPI](https://github.com/elixir-circuits/circuits_spi) - Control or read from SPI devices
+  - [Circuits I2C](https://github.com/elixir-circuits/circuits_i2c) - Control or read from I2C devices
+  - [Circuits GPIO](https://github.com/elixir-circuits/circuits_gpio) - Control or read from GPIOs
+  - [DHT](https://github.com/jjcarstens/dht) - Driver for DHT 11, DHT 22, and AM2302 temperature/humidity sensors
+  - [RFM69 Radio Driver](https://github.com/connorrigby/elixir-rf69) - Radio driver for RFM69HCW chips
+  - [RF24 Radio Driver](https://github.com/connorrigby/elixir-rf24) - Radio driver for Nordic RF24 chips
+  - [RPI Pinout Live](https://github.com/jjcarstens/rpi_pinout_live) - Phoenix LiveView component to render Raspberry Pi pinout
+  - [NervesHub](https://github.com/nerves-hub/nerves_hub_link) - Over the air firmware update server/service
+  - [Tortoise MQTT Client](https://github.com/gausby/tortoise) - MQTT client that supports SSL and MQTT 3.1
+  - [Scenic](https://github.com/boydm/scenic) - 2d UI Framework
 
 ## Products and Projects built with Nerves
   - [Farmbot](https://github.com/farmbot) - Amazing home farming with robots!
